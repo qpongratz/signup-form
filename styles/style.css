@@ -88,5 +88,10 @@ input:focus {
     justify-content: center;
     align-items: flex-start;
     gap: 5px;
-    width: auto;
+    width: 50%;
+}
+
+.form-inputs {
+    display: flex;
+    flex-wrap: wrap;
 }
