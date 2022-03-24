@@ -142,3 +142,11 @@ button {
 label {
     font-size: .8rem;   
 }
+
+.log-in p {
+    font-size: 1rem;
+}
+
+.log-in a {
+    color:#596D48;
+}
