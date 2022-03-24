@@ -40,11 +40,11 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    font-family: Odin, 'Times New Roman', Times, serif;
 }
 
-.image-text span {
+.logo span {
     font-size: 10rem;
+    font-family: Odin, 'Times New Roman', Times, serif;
 }
 
 .image-text a {
@@ -72,11 +72,16 @@ body {
 .content p,
 .content span,
 button,
-label {
+label, 
+.attribution{
     font-size: 1.8rem;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     margin-top: 0;
+}
+
+.attribution {
+    font-size: 1rem;
 }
 
 input {
