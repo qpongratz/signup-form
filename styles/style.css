@@ -97,5 +97,15 @@ input:focus {
 .form-inputs {
     display: flex;
     flex-wrap: wrap;
-    max-width: 40rem;
+    max-width: 50rem;
+}
+
+.content p {
+    max-width: 50rem;
+    padding-left: 4rem;
+}
+
+.content {
+    width: 100%;
+    margin-top: 10rem;
 }
