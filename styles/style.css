@@ -60,7 +60,8 @@ body {
 }
 
 .content p,
-.content span {
+.content span,
+button {
     font-size: 1.8rem;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
@@ -110,4 +111,14 @@ input:focus {
 .content {
     width: 100%;
     margin-top: 10rem;
+}
+
+button {
+    margin: 2rem 0;
+    padding: .5rem 3rem;
+    color: white;
+    background-color: #596D48;
+    border-radius: .5rem;
+    border: none;
+    font-size: 1.5rem;
 }
