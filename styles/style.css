@@ -43,6 +43,10 @@ body {
     font-family: Odin, 'Times New Roman', Times, serif;
 }
 
+.image-text span {
+    font-size: 10rem;
+}
+
 .image-text a {
     color: white;
 }
