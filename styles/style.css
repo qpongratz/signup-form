@@ -118,10 +118,12 @@ input:focus {
     max-width: 50rem;
 }
 
-.content p,
-.content button {
+.content>p,
+.content button,
+.log-in p {
     max-width: 50rem;
     margin-left: 4rem;
+    margin-right: 4rem;
 }
 
 .content {
