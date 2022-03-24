@@ -90,7 +90,7 @@ input:focus {
     justify-content: center;
     align-items: flex-start;
     gap: 5px;
-    width: 50%;
+    width: max(260px, 50%);
     margin: 0.5rem 0;
 }
 
