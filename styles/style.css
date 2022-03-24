@@ -56,10 +56,11 @@ body {
 
 .form-holder {
     box-shadow:0px 2px 8px 0px rgba(68, 67, 67, 0.473);
-    padding: 2rem 2rem;
+    padding: 2rem 4rem;
 }
 
-.content p {
+.content p,
+.content span {
     font-size: 1.8rem;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
@@ -100,9 +101,10 @@ input:focus {
     max-width: 50rem;
 }
 
-.content p {
+.content p,
+.content button {
     max-width: 50rem;
-    padding-left: 4rem;
+    margin-left: 4rem;
 }
 
 .content {
