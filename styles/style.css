@@ -53,3 +53,7 @@ body {
 .logo img {
     height: 200px;
 }
+
+.form-inputs {
+    box-shadow:0px 2px 8px 0px rgba(68, 67, 67, 0.473);
+}
