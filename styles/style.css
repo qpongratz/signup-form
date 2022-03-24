@@ -58,6 +58,7 @@ body {
     background-color: rgba(24, 22, 22, 0.473);
     height: 200px;
     width: 100%;
+    overflow: hidden;
 }
 
 .logo img {
