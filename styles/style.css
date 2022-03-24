@@ -91,9 +91,11 @@ input:focus {
     align-items: flex-start;
     gap: 5px;
     width: 50%;
+    margin: 0.5rem 0;
 }
 
 .form-inputs {
     display: flex;
     flex-wrap: wrap;
+    max-width: 40rem;
 }
